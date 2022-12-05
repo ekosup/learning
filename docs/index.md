@@ -13,3 +13,8 @@ Archives of insight and knowledge (mostly still scratching the surface)
 
 I am a government official with high interest on how beautiful data can be. I am working on developing an integrated system 
 to build efficient human resource system.
+
+!!! note
+
+    This learning docs consists of mixed language of English and (mostly) Indonesian.
+    I will not try to add internalisation in the future.
