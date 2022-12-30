@@ -6,7 +6,7 @@ Kasus dimana data kita itu berubah pattern atau polanya (misal karena seiring be
 
 ## Why?
 
-* salah satu sebab pentingnya continuous development dalam sistem apapun, sehingga menjamin kebaruan informasi dari sistem tersebut.
+* salah satu sebab pentingnya _continuous development_ dalam sistem apapun, sehingga menjamin kebaruan informasi dari sistem tersebut. Dalam kasus model statistik yang tidak selalu valid, terutama jeda waktu pengambilan data dengan publikasi dari model, terdapat gap yang membuat kita tidak bisa mengambil kesimpulan yang sama dengan kondisi terkini.
 * kenapa penting: pola yang kita punya hari ini belum tentu relevan dengan pola yang ada minggu depan, sehingga keputusan yang diambil bisa saja bukan merupakan keputusan yang terbaik (tergantung kecepatan berubahnya data, banyaknya data, bias, dsb).
 
 !!! Contoh

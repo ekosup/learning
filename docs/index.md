@@ -1,6 +1,6 @@
 # Halo ~~~
 
-Arsip yang berisi insight dan pengetahuan selama belajar hidup.
+Arsip yang berisi pendapat dan pengetahuan selama belajar ilmu kehidupan.
 
 ## Apa saja yang ada di sini?
 
@@ -11,6 +11,5 @@ Arsip yang berisi insight dan pengetahuan selama belajar hidup.
 
 
 !!! note
-
     This learning repo consists of mixed language of English and (mostly) Indonesian.
     I will not try to add internalisation in the future. :mask:
